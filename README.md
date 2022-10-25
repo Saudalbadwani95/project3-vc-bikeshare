@@ -20,16 +20,16 @@ The program also ask the user if they want to see raw data and they giving the c
 ### Credits
 
 For finding the day name.
-https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day_name.html#pandas.Series.dt.day_name
+[Link](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day_name.html#pandas.Series.dt.day_name)
 
 For finding the month name.
-https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month_name.html
+[Link](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month_name.html)
 
 For understanding mode
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html
+[Link](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html)
 
 The idea for the raw data loop
-https://stackoverflow.com/questions/58244444/loop-with-df-head
+[Link](https://stackoverflow.com/questions/58244444/loop-with-df-head)
 
 And for getting the next 5 rows of raw data
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
+[Link](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html)
