@@ -13,9 +13,9 @@ The program also ask the user if they want to see raw data and they giving the c
 
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
 
